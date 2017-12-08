@@ -1,1 +1,1 @@
-# sensationalized_news
+# sensational_news_coverage
